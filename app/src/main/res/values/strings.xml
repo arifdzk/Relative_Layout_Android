@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">RelativeLayout_ArifDzakwan_XIIRPL</string>
     <string name="helo">elo</string>
+    <string name="title"><font color='#000'>Lets find</font> \n <font color='cc30010'>food</font> near you</string>
     <string-array name="day">
         <item>Monday</item>
         <item>Tuesday</item>
